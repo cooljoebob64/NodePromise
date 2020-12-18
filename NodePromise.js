@@ -45,4 +45,4 @@ function getMovies(year) {
 
 printYearOfMovies(2012);
 // printYearOfMovies(2001);
-// printYearOfMovies(1805); //returns an empty array 
+// printYearOfMovies(1805); //returns an empty array
